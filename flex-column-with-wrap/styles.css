@@ -1,0 +1,27 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.content {
+    background-color: yellow;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+header {
+    background-color: red;
+}
+
+h1 {
+    background-color: blue;
+}
+
+h2 {
+    background-color: green;
+}

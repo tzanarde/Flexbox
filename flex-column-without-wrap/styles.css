@@ -1,0 +1,15 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.content {
+    width: 350px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}

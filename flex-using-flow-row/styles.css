@@ -1,0 +1,14 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.content {
+    width: 350px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
